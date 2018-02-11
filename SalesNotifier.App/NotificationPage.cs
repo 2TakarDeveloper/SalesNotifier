@@ -7,14 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SalesNotification.Core;
 
 namespace SalesNotifier.App
 {
-    public partial class Form1 : Form
+    public partial class NotificationPage : MetroFramework.Forms.MetroForm
     {
-        public Form1()
+        public NotificationPage()
         {
             InitializeComponent();
+            metroGrid1.DataSource = NotificationManager.GetThreshHoldData();
         }
     }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SalesNotifier")]
+[assembly: AssemblyTitle("SalesNotifier.Parser")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("2TakarDeveloper")]
-[assembly: AssemblyProduct("SalesNotifier")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("SalesNotifier.Parser")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b8800a53-cf10-4cf6-95a0-91ce2f6fff90")]
+[assembly: Guid("3d2d4315-a80c-43e6-b604-cf13b636183d")]
 
 // Version information for an assembly consists of the following four values:
 //
